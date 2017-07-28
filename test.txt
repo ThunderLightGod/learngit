@@ -1,6 +1,2 @@
-<<<<<<< Updated upstream
 leixunpin
 Git is a free software ...
-=======
-雷勋品 学GIT
->>>>>>> Stashed changes
